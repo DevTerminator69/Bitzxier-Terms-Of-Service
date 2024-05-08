@@ -8,7 +8,19 @@ By using the app, these terms will automatically apply to you, and you should ma
 
 At some point, we may wish to update the app. We may also wish to stop providing the app and may terminate use of it at any time by giving notice of termination to you.
 
-**Prohibited Actions**
+Restrictions on your use of Bitzxier's services:
+
+Bitzxier allows you to send messages into Discord channels without being able to clearly determine the responsible person for each message; therefore, the owner of a Discord server is liable for messages or actions taken by the bot.
+
+You may not:
+
+- Send advertisements of any kind using Bitzxier's message system.
+
+- Make the server from which a direct message was sent unrecognizable. 
+
+- Bitzxier always includes the server from which a direct message was sent to ensure that users can keep track of which servers are sending messages to them. Thus, you must ensure that every direct message you send using Bitzxier is clearly identifiable as a message from your server.
+- Repeatedly send messages in a short time span, especially not via direct message.
+- Use Bitzxier on servers that violate Discord's Community Guidelines or use Bitzxier in a manner that contravenes them.
 
 - Trick, defraud, or mislead us and other users, especially in any attempt to learn sensitive account information such as user passwords.
 - Make improper use of our support services or submit false reports of abuse or misconduct.
